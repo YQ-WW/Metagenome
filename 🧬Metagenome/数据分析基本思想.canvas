@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f31b0e82d7eb5e46","type":"text","text":"# 大数据","x":-40,"y":-30,"width":180,"height":60},
+		{"id":"f69683f4460f5d5e","type":"text","text":"# 大表","x":200,"y":-30,"width":185,"height":60},
+		{"id":"89969a2d78e7334d","type":"text","text":"# 小表","x":440,"y":-30,"width":185,"height":60},
+		{"id":"ac496b776b3f66f2","type":"text","text":"# 图","x":680,"y":-30,"width":185,"height":60}
+	],
+	"edges":[
+		{"id":"16ad233c42fea5b7","fromNode":"f31b0e82d7eb5e46","fromSide":"right","toNode":"f69683f4460f5d5e","toSide":"left"},
+		{"id":"356c40977de0f822","fromNode":"f69683f4460f5d5e","fromSide":"right","toNode":"89969a2d78e7334d","toSide":"left"},
+		{"id":"d55a37bb68835190","fromNode":"89969a2d78e7334d","fromSide":"right","toNode":"ac496b776b3f66f2","toSide":"left"}
+	]
+}

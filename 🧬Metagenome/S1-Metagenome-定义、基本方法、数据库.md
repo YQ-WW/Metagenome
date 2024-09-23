@@ -8,11 +8,11 @@
 - A.Microbiome微生物组，不仅包含微生物，同时包括其周围的环境条件。Microbiota微生物群仅指微生物。  
 - B.宏基因组指全部基因组，而16SrDNA扩增子测序仅指测序基因组中的单个标记基因。  
 - C.Alpha多样性是指样本内的物种多样性，而Beta多样性是比较样本间的整体差异。
-![[Pasted image 20240916222815.png]]
+![Pasted image 20240916222815.png](./attachments/Pasted%20image%2020240916222815.png)
 ***Chinese Medical Journal [IF: 1.585]***
 A guide to human microbiome research: study design, sample collection, and bioinformatics analysis
 DOI: https://doi.org/10.1097/CM9.0000000000000871
-![[Pasted image 20240918100919.png]]
+![Pasted image 20240918100919.png](./attachments/Pasted%20image%2020240918100919.png)
 ***Microbiome [IF:11.607]***
 Microbiome definition re-visited: old concepts and new challenges
 DOI：https://doi.org/10.1186/s40168-020-00875-0
@@ -48,14 +48,14 @@ DOI：https://doi.org/10.1186/s40168-020-00875-0
 
 ### 2.1 其他期刊的各类指南
 [Protein Cell：扩增子和宏基因组数据分析实用指南 (qq.com)](https://mp.weixin.qq.com/s/xHe1FHLm3n0Vkxz0nNbXvQ)
-![[Pasted image 20240918102334.png]]
-![[Pasted image 20240918102148.png]]
+![Pasted image 20240918102334.png](./attachments/Pasted%20image%2020240918102334.png)
+![Pasted image 20240918102148.png](./attachments/Pasted%20image%2020240918102148.png)
 A practical guide to amplicon and metagenomic analysis of microbiome data
-****Protein Cell [IF: 10.164]***
+***Protein Cell [IF: 10.164]***
 DOI: https://doi.org/10.1007/s13238-020-00724-8
 ### 2.3 测序平台
-![[Pasted image 20240918110029.png]]
-![[Pasted image 20240918110352.png]]
+![Pasted image 20240918110029.png](./attachments/Pasted%20image%2020240918110029.png)
+![Pasted image 20240918110352.png](./attachments/Pasted%20image%2020240918110352.png)
 [NBT：牛瘤胃微生物组的参考基因组集 (qq.com)](https://mp.weixin.qq.com/s/5oVxb6VADfkvrFVOv9Jw1w)
 [NBT：宏基因组二、三代混合组装软件OPERA-MS (qq.com)](https://mp.weixin.qq.com/s/41WS-uc9TUy2cIJdlKlJLg)
 [Nature Biotechnology封面 | 经济快速：纳米孔宏基因组方案， 6小时准确识别下呼吸道病原体 (qq.com)](https://mp.weixin.qq.com/s/lRu9dbgY0n7_xQK18q2FBg)
@@ -65,31 +65,31 @@ DOI: https://doi.org/10.1007/s13238-020-00724-8
 
 ## 3. 分析流程
 ### 3.1 基本流程
-![[Pasted image 20240918111557.png]]
+![Pasted image 20240918111557.png](./attachments/Pasted%20image%2020240918111557.png)
 ### 3.2 扩增子和宏基因组分析流程及关系
-![[Pasted image 20240918111651.png]]
+![Pasted image 20240918111651.png](./attachments/Pasted%20image%2020240918111651.png)
 ### 3.3 宏基因组分析的注意事项
-![[Pasted image 20240918112127.png]]
-![[Pasted image 20240918112154.png]]
-![[Pasted image 20240918112533.png]]
-![[Pasted image 20240918112558.png]]
+![Pasted image 20240918112127.png](./attachments/Pasted%20image%2020240918112127.png)
+![Pasted image 20240918112154.png](./attachments/Pasted%20image%2020240918112154.png)
+![Pasted image 20240918112533.png](./attachments/Pasted%20image%2020240918112533.png)
+![Pasted image 20240918112558.png](./attachments/Pasted%20image%2020240918112558.png)
 ## 4. Common Resource公共资源
 ### 4.1 基因组数据库
-![[Pasted image 20240918112813.png]]
+![Pasted image 20240918112813.png](./attachments/Pasted%20image%2020240918112813.png)
 1. [Genome - NCBI - NLM (nih.gov)](https://www.ncbi.nlm.nih.gov/datasets/genome/)
 2. [Ensembl Genomes](https://ensemblgenomes.org/)
 3. [Bacterial and Viral Bioinformatics Resource Center | BV-BRC](https://www.bv-brc.org/)
 4. [JGI GOLD | Home (doe.gov)](https://gold.jgi.doe.gov/)
 ### 4.2 China data 
-![[Pasted image 20240918112852.png]]
+![Pasted image 20240918112852.png](./attachments/Pasted%20image%2020240918112852.png)
 [国家微生物科学数据中心nmdc](https://nmdc.cn/)
 ![[Pasted image 20240918113212.png]]
 ### 4.3 NIH人类微生物组计划
 NIH HMP  
 https://www.hmpdacc.org/  
-![[Pasted image 20240918113553.png]]
+![Pasted image 20240918113553.png](./attachments/Pasted%20image%2020240918113553.png)
 ### 4.3 常用功能数据库
-![[Pasted image 20240918113715.png]]
+![Pasted image 20240918113715.png](./attachments/Pasted%20image%2020240918113715.png)
 1. [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.kegg.jp/)
 2. [The Comprehensive Antibiotic Resistance Database (mcmaster.ca)](https://card.mcmaster.ca/)
 3. [UniProt](https://www.uniprot.org/)
